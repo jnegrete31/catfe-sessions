@@ -1,1 +1,1 @@
-[{"sessionLength":30,"id":"F0566E40-2F0A-4EDA-9061-9277314F4184","startTime":787369518.340704,"partyName":"Dahlia","isActive":false,"endedAt":787369666.691929,"endTime":787388418.340704,"guestCount":3},{"sessionLength":60,"id":"E1FE8D3B-5921-4DE2-AA8B-219735AAB70F","startTime":787369531.024847,"partyName":"Javie","isActive":true,"endTime":787373131.024847,"guestCount":2}]
+[{"guestCount":2,"id":"E1FE8D3B-5921-4DE2-AA8B-219735AAB70F","startTime":787369531.024847,"partyName":"Javie","isActive":true,"endTime":787373131.024847,"sessionLength":60}]
