@@ -1,1 +1,1 @@
-[{"isActive":true,"startTime":787615345.325092,"sessionLength":60,"id":"9A91B76B-4288-402A-B2A4-EFD187338A18","partyName":"Cameron","endTime":787618945.325092}]
+[{"id":"9A91B76B-4288-402A-B2A4-EFD187338A18","startTime":787615345.325092,"endTime":787618945.325092,"sessionLength":60,"partyName":"Cameron","isActive":true},{"id":"7ACD5581-A981-415A-91FB-065EE9CBF0EB","startTime":787621953.408737,"endTime":787625553.408737,"sessionLength":60,"partyName":"Penny","isActive":true}]
