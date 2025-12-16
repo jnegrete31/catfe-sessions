@@ -1,1 +1,1 @@
-[{"startTime":787601352.323663,"endTime":787604952.323663,"sessionLength":60,"isActive":false,"id":"45296A89-03A9-4883-8C69-72A79590F42A","partyName":"Sarah","endedAt":787604379.372567},{"startTime":787604377.965121,"sessionLength":60,"endTime":787607977.965121,"isActive":true,"id":"A931B6C1-E757-4340-97BB-91CA330C37FF","partyName":"Fariuz"}]
+[{"partyName":"Fariuz","sessionLength":60,"isActive":true,"endTime":787607977.965121,"id":"A931B6C1-E757-4340-97BB-91CA330C37FF","startTime":787604377.965121}]
